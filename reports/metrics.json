@@ -1,0 +1,6 @@
+{
+  "model_path": "models\\lr_tfidf.joblib",
+  "accuracy": 0.7507772868597611,
+  "f1_macro": 0.668676808366598,
+  "report": "              precision    recall  f1-score   support\n\n        Real       0.87      0.80      0.83      9509\n       Rumor       0.45      0.57      0.50      2713\n\n    accuracy                           0.75     12222\n   macro avg       0.66      0.69      0.67     12222\nweighted avg       0.78      0.75      0.76     12222\n"
+}
